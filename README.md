@@ -1,1 +1,3 @@
-# codefundo18
+codefundo++ 2018
+
+Idea: Using weather data, especially rainfall to predict more than normal rainfall and use this in conjucntion with soil moisture and other ground level data to find predict chances of floods. The model will also be able to generate insigts which would help take steps at the ground level to reduce chances of floods. For instance if ground level data says water level in river is already high and weather data predicts high rainfall then insight would be to open dams/canal barages to distibute water and prepare for the coming rains and so on. This model will also be able to predict the severity of the flood and thus the radius of area effected, allowing proper evacuation and relief services.
